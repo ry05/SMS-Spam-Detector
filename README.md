@@ -2,7 +2,7 @@
 > Basic web application to detect if an SMS is spam or not
 
 ## Usage
-The instructions to run CouReco on your local system are as follows:
+The instructions to run this project on your local system are as follows:
 
 1. Create a virtual environment on your local system to install this project's dependencied and run it
 2. Download or clone this repository into your virtual environment
